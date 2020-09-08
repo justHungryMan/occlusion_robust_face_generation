@@ -1,0 +1,1 @@
+python train_landmark.py --dataset /data1/Jun/datasets/cctv/new_dataset/mask_delete/train/ --save_model /data1/Jun/result/cctv/pred_landmark/ --result_name landmark_pred --gpus 0,1,2,3 --epoch 5000 --batch_size 230

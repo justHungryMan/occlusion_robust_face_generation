@@ -1,0 +1,28 @@
+----------------------------------
+    O C C L U S I O N   D B
+----------------------------------
+Description of Occluder DB folder naming
+
+Occluder Folders Names:
+1 : Hat and alpha matte(20 types)
+2 : Hair and alpha matte(9 types)
+3 : Sunglasses and alpha matte(20 types)
+4 : Currently empty (later it will be hand occluder)
+5 : Masks and alpha matte (10 types)
+6 : Scarf and alpha matte (5 types)
+
+Result Folders Names: 
+1 results : Hat occlusion results (3000 images)
+2 results : Hair occlusion results (1350 images)
+3 results : Sunglasses occlusion results (3000 images)
+4 results : Currently empty (000 images)
+5 results : Mask occlusion results (1500 images)
+6 results : Scarf occlusion results (750 images)
+
+Cropped Folders Names:
+1 cropped: Hat occluded and cropped images (3000 images)
+2 cropped: Hair occluded and cropped images (1350 images)
+3 cropped: Sunglasses occluded and cropped images (3000 images)
+4 cropped: Currently empty (000 images)
+5 cropped: Mask occluded and cropped images (1500images)
+6 cropped: Scarf occluded and cropped images (750 images)

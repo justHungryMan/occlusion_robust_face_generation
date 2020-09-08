@@ -1,0 +1,1 @@
+python train.py --dataset /data1/Jun/datasets/cctv/new_dataset/DB+upAngle3/train/ --save_model /data1/Jun/result/cctv/model/ --training_result /data1/Jun/result/cctv/result/ --epochs 500 --gpus 0,1,2,3 --batch_size 64 --num_workers 16 --result_name FR_randomMask_newData_angle3 --loss wgan-gp
